@@ -1,6 +1,5 @@
 ---
 layout: default
-title: La Gargouillade
 ---
 
 ## Ateliers théâtre, saison 2013 / 2014
