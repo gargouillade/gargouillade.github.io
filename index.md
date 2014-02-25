@@ -16,9 +16,9 @@ Et bien moi je sais !!!!!!!!!!
 
 L'association de théâtre "LA GARGOUILLADE" reprend ses activités à partir du 11 septembre 2013.
 
-    - Si tu as entre 6 et 15 ans
-    - Si tu as déjà fait du théâtre ou si tu es débutant
-    - Mais si tu es super motivé
+* Si tu as entre 6 et 15 ans
+* Si tu as déjà fait du théâtre ou si tu es débutant
+* Mais si tu es super motivé
 
 Alors viens dans notre atelier théâtre !!!!!
 
@@ -50,8 +50,8 @@ en 1, 2 ou 3 chèques.
 
 Possibilité de s'inscrire encore. Pour tout inscription, prévoir :
 
-    - 2 photos d’identité
-    - 2 enveloppes timbrées (nom, prénom et adresse de l’enfant)
+* 2 photos d’identité
+* 2 enveloppes timbrées (nom, prénom et adresse de l’enfant)
 
 ## Contact
 
